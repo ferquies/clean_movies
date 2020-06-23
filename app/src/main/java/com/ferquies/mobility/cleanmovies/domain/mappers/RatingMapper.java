@@ -1,7 +1,7 @@
 package com.ferquies.mobility.cleanmovies.domain.mappers;
 
 import com.ferquies.mobility.cleanmovies.domain.entity.api.RatingApi;
-import com.ferquies.mobility.cleanmovies.domain.entity.domain.Rating;
+import com.ferquies.mobility.cleanmovies.domain.entity.model.Rating;
 
 import java.util.ArrayList;
 import java.util.List;

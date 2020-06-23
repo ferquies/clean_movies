@@ -1,7 +1,7 @@
 package com.ferquies.mobility.cleanmovies.data.repository;
 
 import com.ferquies.mobility.cleanmovies.data.api.ApiService;
-import com.ferquies.mobility.cleanmovies.domain.entity.domain.Movie;
+import com.ferquies.mobility.cleanmovies.domain.entity.model.Movie;
 import com.ferquies.mobility.cleanmovies.domain.mappers.MovieMapper;
 import com.ferquies.mobility.cleanmovies.domain.mappers.SearchResultMapper;
 import com.ferquies.mobility.cleanmovies.domain.repository.Repository;

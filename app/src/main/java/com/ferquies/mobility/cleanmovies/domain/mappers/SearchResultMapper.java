@@ -2,7 +2,7 @@ package com.ferquies.mobility.cleanmovies.domain.mappers;
 
 import com.ferquies.mobility.cleanmovies.domain.entity.api.SearchResultApi;
 import com.ferquies.mobility.cleanmovies.domain.entity.api.SearchResultItemApi;
-import com.ferquies.mobility.cleanmovies.domain.entity.domain.Movie;
+import com.ferquies.mobility.cleanmovies.domain.entity.model.Movie;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -16,7 +16,7 @@ import com.ferquies.mobility.cleanmovies.App;
 import com.ferquies.mobility.cleanmovies.R;
 import com.ferquies.mobility.cleanmovies.domain.base.BaseFragment;
 import com.ferquies.mobility.cleanmovies.domain.state.State;
-import com.ferquies.mobility.cleanmovies.domain.entity.domain.Movie;
+import com.ferquies.mobility.cleanmovies.domain.entity.model.Movie;
 import com.ferquies.mobility.cleanmovies.ui.main.activity.SharedViewModel;
 
 public class DetailFragment extends BaseFragment<DetailViewModel> {

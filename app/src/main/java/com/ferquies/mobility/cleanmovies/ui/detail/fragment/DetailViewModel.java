@@ -2,7 +2,7 @@ package com.ferquies.mobility.cleanmovies.ui.detail.fragment;
 
 import com.ferquies.mobility.cleanmovies.domain.base.BaseViewModel;
 import com.ferquies.mobility.cleanmovies.domain.state.State;
-import com.ferquies.mobility.cleanmovies.domain.entity.domain.Movie;
+import com.ferquies.mobility.cleanmovies.domain.entity.model.Movie;
 
 import javax.inject.Inject;
 
