@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Clean Movies</string>
+    <string name="error_title">Error</string>
+    <string name="accept">Accept</string>
+    <string name="no_content">No content</string>
+    <string name="poster_image">Poster image</string>
+</resources>
