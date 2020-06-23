@@ -1,7 +1,7 @@
-package com.ferquies.mobility.cleanmovies.model.mappers;
+package com.ferquies.mobility.cleanmovies.domain.mappers;
 
-import com.ferquies.mobility.cleanmovies.model.entity.api.MovieApi;
-import com.ferquies.mobility.cleanmovies.model.entity.domain.Movie;
+import com.ferquies.mobility.cleanmovies.domain.entity.api.MovieApi;
+import com.ferquies.mobility.cleanmovies.domain.entity.domain.Movie;
 
 import javax.inject.Inject;
 

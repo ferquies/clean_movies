@@ -8,7 +8,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.ferquies.mobility.cleanmovies.R;
-import com.ferquies.mobility.cleanmovies.model.entity.domain.Movie;
+import com.ferquies.mobility.cleanmovies.domain.entity.domain.Movie;
 
 import java.util.List;
 

@@ -2,7 +2,7 @@ package com.ferquies.mobility.cleanmovies.di;
 
 import androidx.lifecycle.ViewModelProvider;
 
-import com.ferquies.mobility.cleanmovies.model.util.ViewModelFactory;
+import com.ferquies.mobility.cleanmovies.domain.util.ViewModelFactory;
 
 import dagger.Module;
 import dagger.Provides;

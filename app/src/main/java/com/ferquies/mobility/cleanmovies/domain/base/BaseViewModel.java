@@ -1,8 +1,8 @@
-package com.ferquies.mobility.cleanmovies.model.base;
+package com.ferquies.mobility.cleanmovies.domain.base;
 
 import androidx.lifecycle.ViewModel;
 
-import com.ferquies.mobility.cleanmovies.model.state.ViewState;
+import com.ferquies.mobility.cleanmovies.domain.state.ViewState;
 
 import java.util.ArrayList;
 import java.util.List;

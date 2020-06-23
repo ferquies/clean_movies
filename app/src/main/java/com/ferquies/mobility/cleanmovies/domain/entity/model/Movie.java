@@ -1,4 +1,4 @@
-package com.ferquies.mobility.cleanmovies.model.entity.domain;
+package com.ferquies.mobility.cleanmovies.domain.entity.domain;
 
 import java.io.Serializable;
 import java.util.List;

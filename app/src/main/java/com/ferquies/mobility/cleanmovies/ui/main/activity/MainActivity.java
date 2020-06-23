@@ -11,8 +11,8 @@ import androidx.navigation.Navigation;
 
 import com.ferquies.mobility.cleanmovies.App;
 import com.ferquies.mobility.cleanmovies.R;
-import com.ferquies.mobility.cleanmovies.model.base.BaseActivity;
-import com.ferquies.mobility.cleanmovies.model.state.State;
+import com.ferquies.mobility.cleanmovies.domain.base.BaseActivity;
+import com.ferquies.mobility.cleanmovies.domain.state.State;
 
 public class MainActivity extends BaseActivity<SharedViewModel> {
 

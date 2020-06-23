@@ -1,7 +1,7 @@
-package com.ferquies.mobility.cleanmovies.model.usecases;
+package com.ferquies.mobility.cleanmovies.domain.usecases;
 
-import com.ferquies.mobility.cleanmovies.model.entity.domain.Movie;
-import com.ferquies.mobility.cleanmovies.model.repository.Repository;
+import com.ferquies.mobility.cleanmovies.domain.entity.domain.Movie;
+import com.ferquies.mobility.cleanmovies.domain.repository.Repository;
 
 import javax.inject.Inject;
 

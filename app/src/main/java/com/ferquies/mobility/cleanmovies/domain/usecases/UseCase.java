@@ -1,6 +1,6 @@
-package com.ferquies.mobility.cleanmovies.model.usecases;
+package com.ferquies.mobility.cleanmovies.domain.usecases;
 
-import com.ferquies.mobility.cleanmovies.model.repository.Repository;
+import com.ferquies.mobility.cleanmovies.domain.repository.Repository;
 
 @SuppressWarnings("rawtypes")
 public abstract class UseCase<T, P extends UseCase.Params> {

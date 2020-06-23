@@ -1,12 +1,10 @@
 package com.ferquies.mobility.cleanmovies.data.repository;
 
 import com.ferquies.mobility.cleanmovies.data.api.ApiService;
-import com.ferquies.mobility.cleanmovies.model.entity.api.MovieApi;
-import com.ferquies.mobility.cleanmovies.model.entity.api.SearchResultApi;
-import com.ferquies.mobility.cleanmovies.model.entity.domain.Movie;
-import com.ferquies.mobility.cleanmovies.model.mappers.MovieMapper;
-import com.ferquies.mobility.cleanmovies.model.mappers.SearchResultMapper;
-import com.ferquies.mobility.cleanmovies.model.repository.Repository;
+import com.ferquies.mobility.cleanmovies.domain.entity.domain.Movie;
+import com.ferquies.mobility.cleanmovies.domain.mappers.MovieMapper;
+import com.ferquies.mobility.cleanmovies.domain.mappers.SearchResultMapper;
+import com.ferquies.mobility.cleanmovies.domain.repository.Repository;
 
 import java.util.List;
 

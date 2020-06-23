@@ -14,9 +14,9 @@ import androidx.lifecycle.ViewModelProviders;
 import com.bumptech.glide.Glide;
 import com.ferquies.mobility.cleanmovies.App;
 import com.ferquies.mobility.cleanmovies.R;
-import com.ferquies.mobility.cleanmovies.model.base.BaseFragment;
-import com.ferquies.mobility.cleanmovies.model.state.State;
-import com.ferquies.mobility.cleanmovies.model.entity.domain.Movie;
+import com.ferquies.mobility.cleanmovies.domain.base.BaseFragment;
+import com.ferquies.mobility.cleanmovies.domain.state.State;
+import com.ferquies.mobility.cleanmovies.domain.entity.domain.Movie;
 import com.ferquies.mobility.cleanmovies.ui.main.activity.SharedViewModel;
 
 public class DetailFragment extends BaseFragment<DetailViewModel> {

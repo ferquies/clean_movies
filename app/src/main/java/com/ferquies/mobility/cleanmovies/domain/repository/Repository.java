@@ -1,6 +1,6 @@
-package com.ferquies.mobility.cleanmovies.model.repository;
+package com.ferquies.mobility.cleanmovies.domain.repository;
 
-import com.ferquies.mobility.cleanmovies.model.entity.domain.Movie;
+import com.ferquies.mobility.cleanmovies.domain.entity.domain.Movie;
 
 import java.util.List;
 

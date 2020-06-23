@@ -1,7 +1,7 @@
 package com.ferquies.mobility.cleanmovies.data.api;
 
-import com.ferquies.mobility.cleanmovies.model.entity.api.MovieApi;
-import com.ferquies.mobility.cleanmovies.model.entity.api.SearchResultApi;
+import com.ferquies.mobility.cleanmovies.domain.entity.api.MovieApi;
+import com.ferquies.mobility.cleanmovies.domain.entity.api.SearchResultApi;
 
 import io.reactivex.rxjava3.core.Single;
 import retrofit2.http.GET;

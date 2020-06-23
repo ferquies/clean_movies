@@ -1,10 +1,10 @@
-package com.ferquies.mobility.cleanmovies.model.util;
+package com.ferquies.mobility.cleanmovies.domain.util;
 
 import androidx.annotation.NonNull;
 import androidx.lifecycle.ViewModel;
 import androidx.lifecycle.ViewModelProvider;
 
-import com.ferquies.mobility.cleanmovies.model.repository.Repository;
+import com.ferquies.mobility.cleanmovies.domain.repository.Repository;
 
 import java.util.Map;
 

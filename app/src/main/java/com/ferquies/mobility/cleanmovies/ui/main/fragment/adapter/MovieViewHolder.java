@@ -9,7 +9,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
 import com.ferquies.mobility.cleanmovies.R;
-import com.ferquies.mobility.cleanmovies.model.entity.domain.Movie;
+import com.ferquies.mobility.cleanmovies.domain.entity.domain.Movie;
 
 public class MovieViewHolder extends RecyclerView.ViewHolder {
     private Movie movie;

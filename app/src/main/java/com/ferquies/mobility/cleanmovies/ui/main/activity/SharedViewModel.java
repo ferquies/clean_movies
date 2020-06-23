@@ -4,8 +4,8 @@ import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.navigation.NavDirections;
 
-import com.ferquies.mobility.cleanmovies.model.base.BaseViewModel;
-import com.ferquies.mobility.cleanmovies.model.state.State;
+import com.ferquies.mobility.cleanmovies.domain.base.BaseViewModel;
+import com.ferquies.mobility.cleanmovies.domain.state.State;
 
 import javax.inject.Inject;
 

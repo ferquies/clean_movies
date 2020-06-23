@@ -1,8 +1,7 @@
 package com.ferquies.mobility.cleanmovies.di;
 
-import com.ferquies.mobility.cleanmovies.data.api.ApiService;
 import com.ferquies.mobility.cleanmovies.data.repository.RepositoryImpl;
-import com.ferquies.mobility.cleanmovies.model.repository.Repository;
+import com.ferquies.mobility.cleanmovies.domain.repository.Repository;
 
 import javax.inject.Singleton;
 

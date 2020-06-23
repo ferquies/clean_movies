@@ -1,4 +1,4 @@
-package com.ferquies.mobility.cleanmovies.model.state;
+package com.ferquies.mobility.cleanmovies.domain.state;
 
 import androidx.annotation.NonNull;
 import androidx.lifecycle.LifecycleOwner;

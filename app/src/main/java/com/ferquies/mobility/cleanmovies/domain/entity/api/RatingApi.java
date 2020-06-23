@@ -1,4 +1,4 @@
-package com.ferquies.mobility.cleanmovies.model.entity.api;
+package com.ferquies.mobility.cleanmovies.domain.entity.api;
 
 import com.google.gson.annotations.SerializedName;
 
