@@ -11,14 +11,13 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.lifecycle.ViewModelProviders;
 import androidx.navigation.NavDirections;
-import androidx.navigation.Navigation;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.ferquies.mobility.cleanmovies.App;
 import com.ferquies.mobility.cleanmovies.R;
 import com.ferquies.mobility.cleanmovies.model.base.BaseFragment;
-import com.ferquies.mobility.cleanmovies.model.base.state.State;
+import com.ferquies.mobility.cleanmovies.model.state.State;
 import com.ferquies.mobility.cleanmovies.model.entity.domain.Movie;
 import com.ferquies.mobility.cleanmovies.ui.main.activity.SharedViewModel;
 import com.ferquies.mobility.cleanmovies.ui.main.fragment.adapter.MovieListAdapter;

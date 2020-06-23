@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.lifecycle.ViewModelProvider;
 import androidx.lifecycle.ViewModelProviders;
 
-import com.ferquies.mobility.cleanmovies.model.base.state.State;
+import com.ferquies.mobility.cleanmovies.model.state.State;
 
 import javax.inject.Inject;
 

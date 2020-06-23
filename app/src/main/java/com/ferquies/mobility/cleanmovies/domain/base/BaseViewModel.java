@@ -2,7 +2,7 @@ package com.ferquies.mobility.cleanmovies.model.base;
 
 import androidx.lifecycle.ViewModel;
 
-import com.ferquies.mobility.cleanmovies.model.base.state.ViewState;
+import com.ferquies.mobility.cleanmovies.model.state.ViewState;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -15,7 +15,7 @@ import com.bumptech.glide.Glide;
 import com.ferquies.mobility.cleanmovies.App;
 import com.ferquies.mobility.cleanmovies.R;
 import com.ferquies.mobility.cleanmovies.model.base.BaseFragment;
-import com.ferquies.mobility.cleanmovies.model.base.state.State;
+import com.ferquies.mobility.cleanmovies.model.state.State;
 import com.ferquies.mobility.cleanmovies.model.entity.domain.Movie;
 import com.ferquies.mobility.cleanmovies.ui.main.activity.SharedViewModel;
 

@@ -3,7 +3,7 @@ package com.ferquies.mobility.cleanmovies.ui.main.fragment;
 import android.util.Log;
 
 import com.ferquies.mobility.cleanmovies.model.base.BaseViewModel;
-import com.ferquies.mobility.cleanmovies.model.base.state.State;
+import com.ferquies.mobility.cleanmovies.model.state.State;
 import com.ferquies.mobility.cleanmovies.model.entity.domain.Movie;
 import com.ferquies.mobility.cleanmovies.model.usecases.SearchUseCase;
 

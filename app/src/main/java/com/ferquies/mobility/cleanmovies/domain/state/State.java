@@ -1,4 +1,4 @@
-package com.ferquies.mobility.cleanmovies.model.base.state;
+package com.ferquies.mobility.cleanmovies.model.state;
 
 import androidx.annotation.NonNull;
 
